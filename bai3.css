@@ -1,0 +1,52 @@
+/* Bài 1 */
+.bai1_a{
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 10px 100px 100px 0px;
+    border-color: transparent Black transparent  transparent;
+}
+.bai1_b1{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0px  50px 100px 50px;
+    border-color:  transparent  transparent yellow transparent ;
+}
+.bai1_b2{
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 100px 0px 0px 100px;
+    border-color: transparent transparent transparent green;
+}
+
+/* Bài 2 */
+.bai2 a{
+    text-transform: uppercase;
+    color: white;
+    font-size: 20px;
+    font-style: Bold;
+    background-color: blue;
+    padding: 14px 45.2585px;
+    border-radius: 25px;
+}
+
+/* Bài 3 */
+.bai3{
+    width: 600px;
+    height: 300px;
+    border: 5px solid red;
+    border-top: 5px dashed red;
+    border-right: 5px dotted red;
+    background-color:aqua;
+    display: flex;
+}
+.bai3 p{
+    padding:25px 50px 25px 20px;
+    background-color: white;
+    text-align: center;
+    background-image: url(https://static-images.vnncdn.net/files/publish/2023/4/9/bia-ruou-434.jpg);
+    background-size: cover;
+    background-clip:content-box;
+}
